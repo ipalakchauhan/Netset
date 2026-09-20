@@ -7,17 +7,31 @@ NetSet scans a network host that you own or are authorized to test and:
 -Assigns simple risk levels based on configurable rules 
 -Generates a security report.
 
+# Goal
+To scan authorized networks for open ports and services.
+
+To identify potentially risky or exposed services.
+
+To analyze the findings using security rules.
+
+To generate a clear and useful security report.
+
 # How it works?
 
 NetSentry
+
     ↓
 Network target
+
     ↓
 Discover exposed services
+
     ↓
 Analyze attack surface
+
     ↓
 Identify potentially risky exposure
+
     ↓
 Generate security report
 
